@@ -1,1 +1,4 @@
 123
+git push origin master （完整写法，远程分支若不存在会被创建）
+git push origin （远程仓库与本地仓库存在分支最终关系的写法）
+git push (远程仓库只有一个分支，最简单的写法)
